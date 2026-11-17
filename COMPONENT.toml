@@ -3,7 +3,7 @@ name = "SigmaOS-kwallet"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "kwallet component"
+description = "KWallet"
 upstream = []
 
 [contract]
